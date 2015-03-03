@@ -33,7 +33,9 @@ And start the server:
 
 Enjoy by targeting the entry point here:
 
-```http://127.0.0.1:8080/api/<ip>```
+```
+http://127.0.0.1:8080/api/<ip>
+```
 
 
 # Contributing
